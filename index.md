@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to Skimming Canoe
 
-You can use the [editor on GitHub](https://github.com/GoMango99/Unblocked/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What are we?
 
-### Markdown
+Skimming Canoe is a score-based game where you turn a canoe in order to dodge rocks and collect coins. There are multiple canoes you can unlock by playing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Gamemodes
 
-```markdown
-Syntax highlighted code block
+Currently we have 4 gamemodes, with one coming soon
 
-# Header 1
-## Header 2
-### Header 3
+#### Standard
+Skimming Canoe at it's most basic! Move left and right to avoid rocks and collect the coins
 
-- Bulleted
-- List
+#### Practice
+Refine your felexes in this mode! You can respawn as many times as you need. This mode is great for beginners who don't want to be punished for losing
 
-1. Numbered
-2. List
+#### 2 Player
+Grab a friend and have the ultimate canoe-off! In this mode, Both players will compete for the highest score! Last canoe standing wins!
 
-**Bold** and _Italic_ and `Code` text
+#### Arena
+The ultimate challenge for the players who find the other modes childs play! This mode costs 30 coins to enter, so make the most of it. This mode is also the only way to find Arena Points, which you can use to unlock some canoes and are the ultimate currency!
 
-[Link](url) and ![Image](src)
-```
+#### Coming Soon: Online
+Race against the most competitive opponents: other people! Join rooms with your friends, or go in a random room and compete for coins and AP! You can even customise the rules for this mode!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Canoes and Inventory
 
-### Jekyll Themes
+You can even unlock certain canoes with your coins and AP! Some are cheap, but some are super expensive, so be sure to flex after all your hard work!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GoMango99/Unblocked/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Feedback
 
-### Support or Contact
+If you encounter some bugs (There are a few), please go to out discord server, and send a detailed report in #🪲┃bug-reports
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact and Follow us!
+[Our website (this page lol)](https://gomango99.github.io/SkimmingCanoe/)
+
+[Download on itch.io](https://pjgamedev.itch.io/skimmingcanoe)
+
+[Join our Discord](https://discord.gg/ATJNEkuu8m)
+
+[Find updates on Insta](https://instagram.com/skimming.canoe?igshid=YmMyMTA2M2Y=)
+
+[Exclusive vids on YouTube](https://youtube.com/channel/UCSMJJ6kpW2QSiofhUECsNXg)
